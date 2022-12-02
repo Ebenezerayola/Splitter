@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+# Splitter
+Splitter is a tipping calculator, that helps calculate tip amount for various percentages among mutiple people, and also provides a total amount that includes the tip.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+After cloning or downloading this project, to install dependencies, run
+### `npm install`
 
 In the project directory, you can run:
 
